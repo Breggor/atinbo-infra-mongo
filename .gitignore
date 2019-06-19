@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+refs
+info
+hooks
+.idea
+.idea/
+.idea/*
+objects
+config
+description
+HEAD
+*/target/*
+
